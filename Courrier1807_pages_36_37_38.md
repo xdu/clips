@@ -1,9 +1,8 @@
-=== Page 36 ===
-Le numerique abime-t-il vraiment notre mémoire ?
+## Le numerique abime-t-il vraiment notre mémoire ?
 
 Neurosciences. Lusage d’Internet et encore plus celui des outils d’intelligence artificielle suscitent de vives inquiétudes. Tout cela finira-t-il par nuire a nos capacités cognitives, a notre mémoire ? La revue britannique “Nature” apporte des nuances 4 un débat passionné.
 
-—Nature (Londres)
+— Nature (Londres)
 
 Pendant neuf ans, Adrian Pp Ward a circulé sans probleme dans les rues d’Austin, au Texas. Et puis, en novembre dernier, ila commencé ase perdre. Son téléphone faisait des siennes et son application GPS ne voulait plus fonctionner. Du jour au lendemain, Adrian Ward ne savait méme plus comment se rendre chez ses meilleurs amis, et c’est ainsi qu’il a pris conscience de sa dépendance a la technologie. “Je lancais le GPS sans méme y penser et jeme contentais de suivre ses instructions”, se souvient-il.
 
@@ -58,7 +57,3 @@ Pour certains chercheurs, les éventuels effets de PIA sur lapprentissage et la 
 Une chose est stire : la communauté scientifique commence tout juste a se pencher sur les enjeux de I’IA. Et il n’est pas facile d’appréhender les différentes répercussions possibles quand les technologies en question se développent a toute allure. “C’est un sujet particuligrement complexe, conclut Tali Sharot. LIA évolue tellement vite.”
 
 —Helen Pearson, publié le 5 février
-
-Source 
-NATURE
-
