@@ -4,18 +4,22 @@
   <meta charset="UTF-8">
   <title>My Docs</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Docsify CDN -->
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <!-- Docsify stylesheet (optional) -->
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
+  <!-- IMPORTANT: This is required -->
   <div id="app">Loading...</div>
 
   <script>
     window.$docsify = {
       name: 'My Docs',
-      repo: 'xdu/mygitbook',
-      loadSidebar: true
+      repo: '',
+      loadSidebar: true  // optional
     }
   </script>
+
+  <!-- Load Docsify -->
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
